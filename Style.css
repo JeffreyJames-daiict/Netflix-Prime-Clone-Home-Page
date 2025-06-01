@@ -1,0 +1,318 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+
+.bai-jamjuree-extralight {
+    font-family: "Bai Jamjuree", serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .bai-jamjuree-light {
+    font-family: "Bai Jamjuree", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .bai-jamjuree-regular {
+    font-family: "Bai Jamjuree", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .bai-jamjuree-medium {
+    font-family: "Bai Jamjuree", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .bai-jamjuree-semibold {
+    font-family: "Bai Jamjuree", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .bai-jamjuree-bold {
+    font-family: "Bai Jamjuree", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .bai-jamjuree-extralight-italic {
+    font-family: "Bai Jamjuree", serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .bai-jamjuree-light-italic {
+    font-family: "Bai Jamjuree", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .bai-jamjuree-regular-italic {
+    font-family: "Bai Jamjuree", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .bai-jamjuree-medium-italic {
+    font-family: "Bai Jamjuree", serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .bai-jamjuree-semibold-italic {
+    font-family: "Bai Jamjuree", serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .bai-jamjuree-bold-italic {
+    font-family: "Bai Jamjuree", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+.fontclass{
+
+    font-family: "Archivo Black", serif;
+    font-weight: 400;
+    font-style: normal;
+
+      
+}
+
+.navbar{
+    background-color: #004968;
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
+    color: #ffffff;
+}
+
+.navbar .li{
+    padding-left: 10px;
+}
+
+
+
+.carousel-caption{
+    position: relative;
+    top: 0px;
+}
+
+
+.carousel-caption img{
+    position: relative;
+    top: -60px;
+    left: -90px;
+}
+
+.carousel-caption .button_genre{
+    position: relative;
+    top: -30px;
+    left: -40px;
+}
+
+
+
+
+
+.button_trailer .btn{
+    border: 1px dotted white;
+    /* background:linear-gradient(45deg,#E50914,#221F1F,#F5F5F1);  */
+    padding: 5px 60px;
+    margin-top: 5px;
+    margin-left: -10px;
+
+}
+
+
+.button_trailer .btn:hover{
+    background-color: rgb(255, 0, 0);
+    color: black;
+    
+}
+.movies_common{
+    width: 170px;
+    height: 250px;
+    /* box-shadow: 0px 0px 10px white; */
+    border-radius: 5px;
+    transition: all 0.5s ;
+}
+
+.movies_common:hover{
+    transform: scale(1.1,1.1);
+    box-shadow: 0px 0px 10px white;
+}
+
+.movie_1{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1aRiKjhdbCjQ8nh_fJ0PNeL0daEm16YpwIQ&s');
+
+
+}
+
+.movie_2{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSee_GDJ5ZMcY5-QFqOq3OVLoBfQw9laQek2Q&s');
+
+}
+
+.movie_3{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGiaYQOEyHUU4r23v1B6B_1aYPXIUS64g_mw&s');
+}
+
+.movie_4{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSgQPgrMWh8NslVQIeIQmbBMneInE123urRg&s');
+}
+
+.movie_5{
+    background-image: url('https://m.media-amazon.com/images/M/MV5BMDk0MGZmZjYtZDAzZS00Yjg4LWFkZjItYjU5N2IxODRlYmRhXkEyXkFqcGc@._V1_.jpg');
+    background-size: contain;
+}
+
+.movie_6{
+    background-image: url('https://lh3.googleusercontent.com/proxy/jLTblnLwlp9yr-DINl2i0t8fHyzmHz7sBPqCerY1KhybuljjzhNLwFddAOdqRhg5R77EwSZhgIrCtufdyp8JH3SS7pHIQbg6NEwAfZk');
+    background-size: contain;
+}
+/* -------------------------------------------------------------------------------------------------------------------------------------------- */
+.movie_7{
+    background-image: url('https://m.media-amazon.com/images/M/MV5BM2U0MTJiYTItMjNiZS00MzU4LTkxYTAtYTU0ZGY1ODJhMjRhXkEyXkFqcGc@._V1_.jpg');
+    background-size: contain;
+}
+
+.movie_8{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_H__j52zxkh2iTzkSpUYDvECP8W2MHYWsQ&s');
+    background-size: contain;
+}
+
+.movie_9{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsN5rczr1aX2lo0MBHQ-K5EaupgBqVR8_jw&s');
+    background-size: contain;
+}
+
+.movie_10{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdM4Tl7AMKwJ8wonzoPuTJ4_dWN3Pasz7rfg&s');
+    background-size: contain;
+}
+
+.movie_11{
+    background-image: url('https://m.media-amazon.com/images/I/616SEk-KXUL._AC_UF894,1000_QL80_.jpg');
+    background-size: contain;
+}
+
+.movie_12{
+    background-image: url('https://lh5.googleusercontent.com/proxy/GgmDH-AX4QdThj8dha7OEuxyhMF2kzLv7ha7Kexa584IgWizvhJGLluiRpvd-fIvBvA0WWCFU-2dKFsbMNeZjO9ymOB9yA');
+    background-size: contain;
+}
+
+/* ----------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+.movie_13{
+    background-image: url('https://m.media-amazon.com/images/M/MV5BNzAzMmY3OWMtNDgyMS00Y2U4LTlmM2UtY2YwMmM0MDI5ODJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg');
+    background-size: contain;
+}
+
+.movie_14{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHYH34XIJJXD3i7HJBmOhRJ8Kr-8ADYCYhw&s');
+    background-size: contain;
+}
+
+.movie_15{
+    background-image: url('https://cdn.marvel.com/content/1x/cia.dm399_second_poster_static_9x16_dated.jpg');
+    background-size: contain;
+}
+
+.movie_16{
+    background-image: url('https://image.tmdb.org/t/p/w220_and_h330_face/j7bsaLaFM95J9kyZpVnbBr1RIri.jpg');
+    background-size: contain;
+}
+
+.movie_17{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3rUfsbhDqzVGb7TmAhzspWa-roec_rpQq6aG3-Kcp5wDheIpa7je6FCSr5DwdfRY2rIE&usqp=CAU');
+    background-size: contain;
+}
+
+.movie_18{
+    background-image: url('https://rukminim2.flixcart.com/image/850/1000/kyvvtzk0/poster/q/l/n/medium-daredevil-tv-series-matte-finish-poster-urbanprint5629-original-imagbygcq7endvhw.jpeg?q=90&crop=false');
+    background-size: contain;
+}
+
+.tennis_match{
+    transition: all 0.5s;
+}
+
+.tennis_match:hover{
+    transform: scale(1.05,1.05);
+}
+
+/* 
+
+.content_description .description_container{
+    height: 350px;
+    width: 100%;
+    padding: 10px 0px;
+    display: flex;
+    /* box-shadow: 0px 0px 10px white; */
+    /* justify-content: space-between;
+
+} */ */
+
+/* .description{
+    height: 315px;
+    width: 250px;
+    /* box-shadow: 0px 0px 10px white; */
+    /* background: linear-gradient(180deg,#1a1f3f,#1c1219);
+    transition: all 1s;
+
+    border-radius: 10px;
+} */
+/* .description_common:hover{
+    background: linear-gradient(180deg,#1c1219,#1a1f3f);
+} */
+ */
+
+
+.final_lines{
+    /* position: relative; */
+    margin: 10px 150px;
+    /* box-shadow: 0px 0px 10px white; */
+}
+/* 
+.final_lines p{
+    color: #a2a2a2;
+    font-size: 16px;
+    font-weight: 500;
+} */
+
+.final_lines a{
+    color: #a2a2a2;
+    font-size: 16px; 
+}    
+
+
+.list_container {
+    /* margin: 40px 0px; */
+    display: flex;
+    height: 100px;
+    width: 90%;
+    /* box-shadow: 0px 0px 10px white ; */
+    flex-direction: row ;
+    flex-wrap: wrap;
+    justify-content: space-between ;
+}
+
+.list_common{
+    height: 25px;
+    width: 190px;
+    /* box-shadow: 0px 0px 10px white; */
+}
+
+.list_container a{
+    font-size: 14px;
+    font-weight: 400;
+    color: #aaaaaa;
+}
